@@ -13,6 +13,7 @@ option = st.sidebar.radio('Navigation',
  "Application", ])
 
 st.sidebar.write('''This is a final deployed application of the project undertaken by Team-21 for IRE course, 2021''')
+st.sidebar.write('''The team members are - Anurag Muthlaya, Kancharla Aditya Hari, Meeraj Kanarparthi, Shivanshu Jain''')
 
 if(option == "Application"):
     st.header("Washington Post Author Detector")
