@@ -19,7 +19,7 @@ if(option == "Application"):
     text_input = st.text_area("Enter article", height=250)
 
     model_select = st.selectbox("Model Selection", ["CNN","LSTM","GRU","BERT","RoBERTa","DistilBERT"])
-    if st.button("Predict"):
+    if st.button("Predict") and text_input!="":
         if(model_select.lower() in ["cnn", "lstm", "gru"]):
             results = nn_inference(model_select.lower(), text_input)
         else:
