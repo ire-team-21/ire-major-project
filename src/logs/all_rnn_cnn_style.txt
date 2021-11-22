@@ -1,0 +1,315 @@
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 1m 29s
+	Train Loss: 3.015 | Train Acc: 18.94% | Train F1: 0.1661162054243317
+	 Val. Loss: 1.943 |  Val. Acc: 49.06% | Val. F1: 0.47362894917582415 | Val. Prec: 0.490625 | Val. Rec.: 0.5033664772727273
+Epoch: 02 | Epoch Time: 1m 30s
+	Train Loss: 1.836 | Train Acc: 49.22% | Train F1: 0.4760568851086094
+	 Val. Loss: 1.362 |  Val. Acc: 62.19% | Val. F1: 0.6024062392167011 | Val. Prec: 0.621875 | Val. Rec.: 0.631421130952381
+Epoch: 03 | Epoch Time: 1m 29s
+	Train Loss: 1.445 | Train Acc: 58.45% | Train F1: 0.5807729045875596
+	 Val. Loss: 1.111 |  Val. Acc: 71.09% | Val. F1: 0.7015243957431456 | Val. Prec: 0.7109375 | Val. Rec.: 0.7348697916666665
+Epoch: 04 | Epoch Time: 1m 29s
+	Train Loss: 1.169 | Train Acc: 65.51% | Train F1: 0.6512264370561781
+	 Val. Loss: 0.986 |  Val. Acc: 74.84% | Val. F1: 0.761195661976912 | Val. Prec: 0.7484375 | Val. Rec.: 0.8134895833333331
+Epoch: 05 | Epoch Time: 1m 29s
+	Train Loss: 0.955 | Train Acc: 71.25% | Train F1: 0.7097460873322944
+	 Val. Loss: 0.918 |  Val. Acc: 73.28% | Val. F1: 0.7358097718253969 | Val. Prec: 0.7328125 | Val. Rec.: 0.7760677083333334
+Epoch: 06 | Epoch Time: 1m 29s
+	Train Loss: 0.798 | Train Acc: 76.49% | Train F1: 0.7609147965290208
+	 Val. Loss: 0.865 |  Val. Acc: 74.84% | Val. F1: 0.762409474206349 | Val. Prec: 0.7484375 | Val. Rec.: 0.8198437499999998
+Epoch: 07 | Epoch Time: 1m 29s
+	Train Loss: 0.627 | Train Acc: 81.51% | Train F1: 0.8143796558397852
+	 Val. Loss: 0.775 |  Val. Acc: 77.03% | Val. F1: 0.7756163194444444 | Val. Prec: 0.7703125 | Val. Rec.: 0.8124739583333334
+Epoch: 08 | Epoch Time: 1m 30s
+	Train Loss: 0.537 | Train Acc: 84.76% | Train F1: 0.8460601387325526
+	 Val. Loss: 0.733 |  Val. Acc: 80.94% | Val. F1: 0.8155601776695527 | Val. Prec: 0.809375 | Val. Rec.: 0.8544270833333332
+Epoch: 09 | Epoch Time: 1m 29s
+	Train Loss: 0.435 | Train Acc: 87.92% | Train F1: 0.879888358767669
+	 Val. Loss: 0.716 |  Val. Acc: 79.38% | Val. F1: 0.8050467848124097 | Val. Prec: 0.79375 | Val. Rec.: 0.8484114583333332
+Epoch: 10 | Epoch Time: 1m 30s
+	Train Loss: 0.354 | Train Acc: 89.77% | Train F1: 0.8973299100993065
+	 Val. Loss: 0.703 |  Val. Acc: 79.84% | Val. F1: 0.8046859217171715 | Val. Prec: 0.7984375 | Val. Rec.: 0.8459635416666667
+news cnn 0.8155601776695527 0.809375 0.8544270833333332 0.8155601776695527 0.002 32
+tensor(0.8220, device='cuda:0') 0.7422640931372548 0.7442869402083557 0.7422640931372548 0.7916074893499068
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 1m 46s
+	Train Loss: 3.091 | Train Acc: 9.72% | Train F1: 0.039845258016396226
+	 Val. Loss: 2.878 |  Val. Acc: 12.86% | Val. F1: 0.0930754662004662 | Val. Prec: 0.12864583333333332 | Val. Rec.: 0.10595300099206348
+Epoch: 02 | Epoch Time: 1m 47s
+	Train Loss: 2.748 | Train Acc: 16.91% | Train F1: 0.11107631307764462
+	 Val. Loss: 2.790 |  Val. Acc: 18.75% | Val. F1: 0.1589756944444444 | Val. Prec: 0.1875 | Val. Rec.: 0.1635034626831502
+Epoch: 03 | Epoch Time: 1m 47s
+	Train Loss: 2.618 | Train Acc: 19.79% | Train F1: 0.1395372542398693
+	 Val. Loss: 2.492 |  Val. Acc: 24.69% | Val. F1: 0.2177017374986125 | Val. Prec: 0.246875 | Val. Rec.: 0.23641927083333333
+Epoch: 04 | Epoch Time: 1m 46s
+	Train Loss: 2.341 | Train Acc: 25.92% | Train F1: 0.2039322649695168
+	 Val. Loss: 3.411 |  Val. Acc: 13.07% | Val. F1: 0.09894849941724941 | Val. Prec: 0.13072916666666667 | Val. Rec.: 0.09768770292207793
+Epoch: 05 | Epoch Time: 1m 46s
+	Train Loss: 2.301 | Train Acc: 27.10% | Train F1: 0.2134288729512488
+	 Val. Loss: 2.449 |  Val. Acc: 26.04% | Val. F1: 0.2449976668862539 | Val. Prec: 0.26041666666666663 | Val. Rec.: 0.26675781249999997
+Epoch: 06 | Epoch Time: 1m 46s
+	Train Loss: 2.032 | Train Acc: 35.45% | Train F1: 0.30386661898135026
+	 Val. Loss: 4.359 |  Val. Acc: 17.19% | Val. F1: 0.12697026064213562 | Val. Prec: 0.171875 | Val. Rec.: 0.12010354662698415
+Epoch: 07 | Epoch Time: 1m 46s
+	Train Loss: 2.265 | Train Acc: 30.50% | Train F1: 0.25676508106473334
+	 Val. Loss: 2.584 |  Val. Acc: 20.47% | Val. F1: 0.1867977335164835 | Val. Prec: 0.2046875 | Val. Rec.: 0.19749999999999998
+Epoch: 08 | Epoch Time: 1m 47s
+	Train Loss: 1.973 | Train Acc: 38.25% | Train F1: 0.3369184145616702
+	 Val. Loss: 2.359 |  Val. Acc: 28.59% | Val. F1: 0.2654579274891775 | Val. Prec: 0.2859375 | Val. Rec.: 0.2880115327380952
+Epoch: 09 | Epoch Time: 1m 47s
+	Train Loss: 1.696 | Train Acc: 44.98% | Train F1: 0.4121852831982142
+	 Val. Loss: 2.079 |  Val. Acc: 36.15% | Val. F1: 0.3450037202380954 | Val. Prec: 0.3614583333333333 | Val. Rec.: 0.39180059523809524
+Epoch: 10 | Epoch Time: 1m 46s
+	Train Loss: 1.472 | Train Acc: 51.14% | Train F1: 0.4734774936283554
+	 Val. Loss: 2.063 |  Val. Acc: 38.70% | Val. F1: 0.3748586309523809 | Val. Prec: 0.38697916666666665 | Val. Rec.: 0.4212239583333333
+news lstm 0.3748586309523809 0.38697916666666665 0.4212239583333333 0.3748586309523809 0.002 32
+tensor(1.9935, device='cuda:0') 0.40686274509803927 0.39473465274548863 0.40686274509803927 0.44522390034223674
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 1m 47s
+	Train Loss: 2.976 | Train Acc: 12.83% | Train F1: 0.07494605023385052
+	 Val. Loss: 2.626 |  Val. Acc: 21.77% | Val. F1: 0.17975182803307807 | Val. Prec: 0.21770833333333334 | Val. Rec.: 0.201928943452381
+Epoch: 02 | Epoch Time: 1m 48s
+	Train Loss: 2.258 | Train Acc: 33.32% | Train F1: 0.2763829014621358
+	 Val. Loss: 2.073 |  Val. Acc: 37.03% | Val. F1: 0.3425686553030302 | Val. Prec: 0.3703125 | Val. Rec.: 0.37007688492063495
+Epoch: 03 | Epoch Time: 1m 47s
+	Train Loss: 1.543 | Train Acc: 52.78% | Train F1: 0.48345950280217526
+	 Val. Loss: 1.418 |  Val. Acc: 56.25% | Val. F1: 0.5548030871604241 | Val. Prec: 0.5625 | Val. Rec.: 0.6047916666666666
+Epoch: 04 | Epoch Time: 1m 47s
+	Train Loss: 0.984 | Train Acc: 69.59% | Train F1: 0.6754697162024748
+	 Val. Loss: 1.318 |  Val. Acc: 59.84% | Val. F1: 0.6024149197722568 | Val. Prec: 0.5984375 | Val. Rec.: 0.6629427083333334
+Epoch: 05 | Epoch Time: 1m 47s
+	Train Loss: 0.628 | Train Acc: 80.55% | Train F1: 0.7926522374798239
+	 Val. Loss: 1.109 |  Val. Acc: 68.59% | Val. F1: 0.6955056141774894 | Val. Prec: 0.6859375 | Val. Rec.: 0.7433974358974358
+Epoch: 06 | Epoch Time: 1m 47s
+	Train Loss: 0.381 | Train Acc: 89.16% | Train F1: 0.8864426725418106
+	 Val. Loss: 1.053 |  Val. Acc: 71.41% | Val. F1: 0.7227903606809857 | Val. Prec: 0.7140625 | Val. Rec.: 0.7717968749999999
+Epoch: 07 | Epoch Time: 1m 46s
+	Train Loss: 0.239 | Train Acc: 93.85% | Train F1: 0.93673081948944
+	 Val. Loss: 0.976 |  Val. Acc: 75.47% | Val. F1: 0.7612976866883117 | Val. Prec: 0.7546875 | Val. Rec.: 0.8005208333333332
+Epoch: 08 | Epoch Time: 1m 48s
+	Train Loss: 0.132 | Train Acc: 97.26% | Train F1: 0.9712480645670297
+	 Val. Loss: 1.059 |  Val. Acc: 75.78% | Val. F1: 0.7682908324314573 | Val. Prec: 0.7578125 | Val. Rec.: 0.8123697916666668
+Epoch: 09 | Epoch Time: 1m 48s
+	Train Loss: 0.114 | Train Acc: 97.31% | Train F1: 0.9727747612984682
+	 Val. Loss: 1.277 |  Val. Acc: 70.26% | Val. F1: 0.7162744633838384 | Val. Prec: 0.7026041666666667 | Val. Rec.: 0.775
+Epoch: 10 | Epoch Time: 1m 47s
+	Train Loss: 0.086 | Train Acc: 98.17% | Train F1: 0.9808423480298479
+	 Val. Loss: 1.150 |  Val. Acc: 74.53% | Val. F1: 0.755594899891775 | Val. Prec: 0.7453125 | Val. Rec.: 0.7989583333333333
+news gru 0.7682908324314573 0.7578125 0.8123697916666668 0.7682908324314573 0.002 32
+tensor(1.1687, device='cuda:0') 0.7139246323529411 0.7191740036948372 0.7139246323529411 0.7667124871571104
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 5m 15s
+	Train Loss: 0.781 | Train Acc: 76.77% | Train F1: 0.7620946542267528
+	 Val. Loss: nan |  Val. Acc: 87.79% | Val. F1: 0.8705115527446404 | Val. Prec: 0.877875 | Val. Rec.: 0.8881763888888881
+Epoch: 02 | Epoch Time: 5m 7s
+	Train Loss: 0.398 | Train Acc: 88.61% | Train F1: 0.8832555331855622
+	 Val. Loss: nan |  Val. Acc: 92.22% | Val. F1: 0.9157109249002632 | Val. Prec: 0.92225 | Val. Rec.: 0.9260662202380946
+Epoch: 03 | Epoch Time: 5m 12s
+	Train Loss: 0.271 | Train Acc: 92.61% | Train F1: 0.924887160782992
+	 Val. Loss: nan |  Val. Acc: 94.80% | Val. F1: 0.944824961959695 | Val. Prec: 0.948 | Val. Rec.: 0.9529953869047616
+Epoch: 04 | Epoch Time: 5m 16s
+	Train Loss: 0.199 | Train Acc: 94.67% | Train F1: 0.9460486796948435
+	 Val. Loss: nan |  Val. Acc: 94.83% | Val. F1: 0.9435802046336875 | Val. Prec: 0.94825 | Val. Rec.: 0.9502455357142853
+Epoch: 05 | Epoch Time: 5m 13s
+	Train Loss: 0.151 | Train Acc: 95.97% | Train F1: 0.9591981263031608
+	 Val. Loss: nan |  Val. Acc: 96.04% | Val. F1: 0.9575510791904175 | Val. Prec: 0.960375 | Val. Rec.: 0.9637912202380946
+Epoch: 06 | Epoch Time: 5m 13s
+	Train Loss: 0.127 | Train Acc: 96.79% | Train F1: 0.967699831694611
+	 Val. Loss: nan |  Val. Acc: 96.31% | Val. F1: 0.9620774861168245 | Val. Prec: 0.963125 | Val. Rec.: 0.9694002976190473
+Epoch: 07 | Epoch Time: 5m 14s
+	Train Loss: 0.109 | Train Acc: 97.46% | Train F1: 0.9740818394668929
+	 Val. Loss: nan |  Val. Acc: 96.78% | Val. F1: 0.9674404099984985 | Val. Prec: 0.96785 | Val. Rec.: 0.9744312499999997
+Epoch: 08 | Epoch Time: 5m 16s
+	Train Loss: 0.089 | Train Acc: 97.80% | Train F1: 0.9779064606641695
+	 Val. Loss: nan |  Val. Acc: 96.51% | Val. F1: 0.9634829778473163 | Val. Prec: 0.965125 | Val. Rec.: 0.9700229166666664
+Epoch: 09 | Epoch Time: 5m 14s
+	Train Loss: 0.083 | Train Acc: 98.10% | Train F1: 0.9804795507533679
+	 Val. Loss: nan |  Val. Acc: 97.19% | Val. F1: 0.9706966928904427 | Val. Prec: 0.971875 | Val. Rec.: 0.9759906249999997
+Epoch: 10 | Epoch Time: 5m 15s
+	Train Loss: 0.071 | Train Acc: 98.33% | Train F1: 0.9830402570186172
+	 Val. Loss: nan |  Val. Acc: 97.30% | Val. F1: 0.9713168176186557 | Val. Prec: 0.973 | Val. Rec.: 0.9751215773809522
+enron cnn 0.9713168176186557 0.973 0.9751215773809522 0.9713168176186557 0.002 32
+tensor(nan, device='cuda:0') 0.9689625850340136 0.9681298931937055 0.9689625850340136 0.9743286542727249
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 6m 31s
+	Train Loss: 1.451 | Train Acc: 53.26% | Train F1: 0.48845100431618077
+	 Val. Loss: 0.863 |  Val. Acc: 74.81% | Val. F1: 0.7440928134365641 | Val. Prec: 0.748125 | Val. Rec.: 0.7795633928571419
+Epoch: 02 | Epoch Time: 6m 29s
+	Train Loss: 0.476 | Train Acc: 85.54% | Train F1: 0.8515345374397628
+	 Val. Loss: 0.450 |  Val. Acc: 89.08% | Val. F1: 0.8927892441504574 | Val. Prec: 0.89075 | Val. Rec.: 0.9153863591269835
+Epoch: 03 | Epoch Time: 6m 28s
+	Train Loss: 0.216 | Train Acc: 93.68% | Train F1: 0.9356459506796135
+	 Val. Loss: 0.399 |  Val. Acc: 90.83% | Val. F1: 0.9127980010185892 | Val. Prec: 0.90835 | Val. Rec.: 0.9367949404761899
+Epoch: 04 | Epoch Time: 6m 27s
+	Train Loss: 0.131 | Train Acc: 96.16% | Train F1: 0.9608668920252138
+	 Val. Loss: 0.291 |  Val. Acc: 93.09% | Val. F1: 0.9322787858587497 | Val. Prec: 0.930875 | Val. Rec.: 0.9493774305555548
+Epoch: 05 | Epoch Time: 6m 28s
+	Train Loss: 0.086 | Train Acc: 97.59% | Train F1: 0.9753041353313444
+	 Val. Loss: 0.221 |  Val. Acc: 95.19% | Val. F1: 0.9521482413419915 | Val. Prec: 0.951875 | Val. Rec.: 0.964018303571428
+Epoch: 06 | Epoch Time: 6m 31s
+	Train Loss: 0.052 | Train Acc: 98.47% | Train F1: 0.9843281435441698
+	 Val. Loss: 0.242 |  Val. Acc: 95.01% | Val. F1: 0.9506549815380699 | Val. Prec: 0.950125 | Val. Rec.: 0.9620412202380949
+Epoch: 07 | Epoch Time: 6m 29s
+	Train Loss: 0.038 | Train Acc: 98.96% | Train F1: 0.9894619057139192
+	 Val. Loss: 0.223 |  Val. Acc: 95.79% | Val. F1: 0.9568464368964368 | Val. Prec: 0.957875 | Val. Rec.: 0.9657093749999999
+Epoch: 08 | Epoch Time: 6m 31s
+	Train Loss: 0.031 | Train Acc: 99.07% | Train F1: 0.9906315163311107
+	 Val. Loss: 0.203 |  Val. Acc: 96.17% | Val. F1: 0.9623119318181822 | Val. Prec: 0.96175 | Val. Rec.: 0.9713041666666665
+Epoch: 09 | Epoch Time: 6m 30s
+	Train Loss: 0.024 | Train Acc: 99.30% | Train F1: 0.9928623570187172
+	 Val. Loss: 0.254 |  Val. Acc: 95.64% | Val. F1: 0.9565864628427126 | Val. Prec: 0.956375 | Val. Rec.: 0.9670208333333331
+Epoch: 10 | Epoch Time: 6m 31s
+	Train Loss: 0.015 | Train Acc: 99.55% | Train F1: 0.9953187484561141
+	 Val. Loss: 0.226 |  Val. Acc: 95.49% | Val. F1: 0.9563909021534016 | Val. Prec: 0.954875 | Val. Rec.: 0.9685485119047617
+enron lstm 0.9623119318181822 0.96175 0.9713041666666665 0.9623119318181822 0.002 32
+tensor(0.2065, device='cuda:0') 0.9587585034013606 0.9590059230906379 0.9587585034013606 0.9684345660366166
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 6m 32s
+	Train Loss: 0.791 | Train Acc: 75.20% | Train F1: 0.7338242411507944
+	 Val. Loss: 0.315 |  Val. Acc: 90.34% | Val. F1: 0.9041493177574056 | Val. Prec: 0.903375 | Val. Rec.: 0.9242846726190471
+Epoch: 02 | Epoch Time: 6m 29s
+	Train Loss: 0.144 | Train Acc: 95.74% | Train F1: 0.9571908631918034
+	 Val. Loss: 0.161 |  Val. Acc: 95.16% | Val. F1: 0.9516689883645766 | Val. Prec: 0.951625 | Val. Rec.: 0.9616001488095236
+Epoch: 03 | Epoch Time: 6m 30s
+	Train Loss: 0.050 | Train Acc: 98.60% | Train F1: 0.9856816260196537
+	 Val. Loss: 0.132 |  Val. Acc: 96.58% | Val. F1: 0.9653233922939809 | Val. Prec: 0.96575 | Val. Rec.: 0.9721605654761902
+Epoch: 04 | Epoch Time: 6m 35s
+	Train Loss: 0.025 | Train Acc: 99.26% | Train F1: 0.9926534005354675
+	 Val. Loss: 0.137 |  Val. Acc: 96.56% | Val. F1: 0.9655168446749328 | Val. Prec: 0.965625 | Val. Rec.: 0.9730257440476189
+Epoch: 05 | Epoch Time: 6m 38s
+	Train Loss: 0.017 | Train Acc: 99.49% | Train F1: 0.9947480635259605
+	 Val. Loss: 0.150 |  Val. Acc: 96.38% | Val. F1: 0.9639077922077922 | Val. Prec: 0.96375 | Val. Rec.: 0.9714354166666663
+Epoch: 06 | Epoch Time: 6m 41s
+	Train Loss: 0.012 | Train Acc: 99.65% | Train F1: 0.996540695297451
+	 Val. Loss: 0.160 |  Val. Acc: 96.30% | Val. F1: 0.9635752795815292 | Val. Prec: 0.963 | Val. Rec.: 0.9723084821428568
+Epoch: 07 | Epoch Time: 6m 37s
+	Train Loss: 0.009 | Train Acc: 99.71% | Train F1: 0.9970312971800793
+	 Val. Loss: 0.140 |  Val. Acc: 96.96% | Val. F1: 0.9711316708210094 | Val. Prec: 0.969625 | Val. Rec.: 0.9798688988095237
+Epoch: 08 | Epoch Time: 6m 43s
+	Train Loss: 0.007 | Train Acc: 99.80% | Train F1: 0.9980232413086809
+	 Val. Loss: 0.159 |  Val. Acc: 96.53% | Val. F1: 0.964809974747475 | Val. Prec: 0.96525 | Val. Rec.: 0.9723999999999998
+Epoch: 09 | Epoch Time: 6m 42s
+	Train Loss: 0.008 | Train Acc: 99.77% | Train F1: 0.9976493952884952
+	 Val. Loss: 0.132 |  Val. Acc: 97.09% | Val. F1: 0.9706218944797894 | Val. Prec: 0.970875 | Val. Rec.: 0.9768360119047617
+Epoch: 10 | Epoch Time: 6m 40s
+	Train Loss: 0.003 | Train Acc: 99.91% | Train F1: 0.9991184433940619
+	 Val. Loss: 0.125 |  Val. Acc: 97.60% | Val. F1: 0.9752362019924518 | Val. Prec: 0.976 | Val. Rec.: 0.980006994047619
+enron gru 0.9752362019924518 0.976 0.980006994047619 0.9752362019924518 0.002 32
+tensor(0.1245, device='cuda:0') 0.9754464285714286 0.9758115850372041 0.9754464285714286 0.9820347410619129
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 0m 19s
+	Train Loss: 0.857 | Train Acc: 60.37% | Train F1: 0.59618467113893
+	 Val. Loss: nan |  Val. Acc: 69.86% | Val. F1: 0.6969102142604315 | Val. Prec: 0.6986464968152867 | Val. Rec.: 0.751454576474481
+Epoch: 02 | Epoch Time: 0m 19s
+	Train Loss: 0.539 | Train Acc: 78.17% | Train F1: 0.7811398982440416
+	 Val. Loss: nan |  Val. Acc: 77.11% | Val. F1: 0.7701635896439337 | Val. Prec: 0.7710987261146497 | Val. Rec.: 0.8028324482046616
+Epoch: 03 | Epoch Time: 0m 19s
+	Train Loss: 0.323 | Train Acc: 87.31% | Train F1: 0.8726718020147199
+	 Val. Loss: nan |  Val. Acc: 79.54% | Val. F1: 0.7931339212744342 | Val. Prec: 0.7953821656050956 | Val. Rec.: 0.8272071689368666
+Epoch: 04 | Epoch Time: 0m 19s
+	Train Loss: 0.195 | Train Acc: 92.65% | Train F1: 0.9265654538011886
+	 Val. Loss: nan |  Val. Acc: 79.14% | Val. F1: 0.7898346892607259 | Val. Prec: 0.7914012738853503 | Val. Rec.: 0.8236075495629637
+Epoch: 05 | Epoch Time: 0m 19s
+	Train Loss: 0.113 | Train Acc: 95.99% | Train F1: 0.9597996432866727
+	 Val. Loss: nan |  Val. Acc: 80.85% | Val. F1: 0.807844745990131 | Val. Prec: 0.8085191082802548 | Val. Rec.: 0.837190360727383
+Epoch: 06 | Epoch Time: 0m 19s
+	Train Loss: 0.074 | Train Acc: 97.49% | Train F1: 0.9748124593842811
+	 Val. Loss: nan |  Val. Acc: 79.82% | Val. F1: 0.797149211719266 | Val. Prec: 0.7981687898089171 | Val. Rec.: 0.8291443318712429
+Epoch: 07 | Epoch Time: 0m 20s
+	Train Loss: 0.048 | Train Acc: 98.35% | Train F1: 0.9834673981804891
+	 Val. Loss: nan |  Val. Acc: 80.37% | Val. F1: 0.8033140802631461 | Val. Prec: 0.8037420382165605 | Val. Rec.: 0.8341893830249725
+Epoch: 08 | Epoch Time: 0m 19s
+	Train Loss: 0.035 | Train Acc: 98.77% | Train F1: 0.9876876229928959
+	 Val. Loss: nan |  Val. Acc: 80.85% | Val. F1: 0.8083541834583583 | Val. Prec: 0.8085191082802548 | Val. Rec.: 0.841476669561861
+Epoch: 09 | Epoch Time: 0m 19s
+	Train Loss: 0.028 | Train Acc: 99.15% | Train F1: 0.9915049291563909
+	 Val. Loss: nan |  Val. Acc: 80.81% | Val. F1: 0.8072927449208607 | Val. Prec: 0.8081210191082803 | Val. Rec.: 0.8383597835727612
+Epoch: 10 | Epoch Time: 0m 19s
+	Train Loss: 0.028 | Train Acc: 98.98% | Train F1: 0.9898292773116405
+	 Val. Loss: nan |  Val. Acc: 80.61% | Val. F1: 0.8060083945935261 | Val. Prec: 0.8061305732484076 | Val. Rec.: 0.8380293063712652
+spooky cnn 0.8083541834583583 0.8085191082802548 0.841476669561861 0.8083541834583583 0.002 32
+tensor(nan, device='cuda:0') 0.8046040713196033 0.805215330897248 0.8046040713196033 0.8147455658014195
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 0m 24s
+	Train Loss: 0.820 | Train Acc: 63.01% | Train F1: 0.5988122576825663
+	 Val. Loss: 0.841 |  Val. Acc: 72.85% | Val. F1: 0.7265558751908594 | Val. Prec: 0.7285031847133758 | Val. Rec.: 0.7738108881122414
+Epoch: 02 | Epoch Time: 0m 24s
+	Train Loss: 0.475 | Train Acc: 82.20% | Train F1: 0.8203379864293666
+	 Val. Loss: 1.045 |  Val. Acc: 79.02% | Val. F1: 0.7933913672335192 | Val. Prec: 0.7902070063694268 | Val. Rec.: 0.8341089753311093
+Epoch: 03 | Epoch Time: 0m 24s
+	Train Loss: 0.268 | Train Acc: 90.87% | Train F1: 0.9085220823300294
+	 Val. Loss: 1.132 |  Val. Acc: 80.61% | Val. F1: 0.8083566493116363 | Val. Prec: 0.8061305732484076 | Val. Rec.: 0.8457933664442424
+Epoch: 04 | Epoch Time: 0m 24s
+	Train Loss: 0.164 | Train Acc: 94.58% | Train F1: 0.9457756802429571
+	 Val. Loss: 1.656 |  Val. Acc: 78.34% | Val. F1: 0.7837766151760526 | Val. Prec: 0.7834394904458599 | Val. Rec.: 0.8349120182718908
+Epoch: 05 | Epoch Time: 0m 24s
+	Train Loss: 0.095 | Train Acc: 96.88% | Train F1: 0.9686302339257296
+	 Val. Loss: 1.398 |  Val. Acc: 80.93% | Val. F1: 0.8109739249313873 | Val. Prec: 0.8093152866242038 | Val. Rec.: 0.8458256645159513
+Epoch: 06 | Epoch Time: 0m 24s
+	Train Loss: 0.062 | Train Acc: 98.07% | Train F1: 0.98065969786409
+	 Val. Loss: 1.579 |  Val. Acc: 80.45% | Val. F1: 0.804992076599876 | Val. Prec: 0.8045382165605095 | Val. Rec.: 0.8415583841141163
+Epoch: 07 | Epoch Time: 0m 24s
+	Train Loss: 0.044 | Train Acc: 98.68% | Train F1: 0.986818299407604
+	 Val. Loss: 1.676 |  Val. Acc: 80.10% | Val. F1: 0.8015511049694029 | Val. Prec: 0.8009554140127388 | Val. Rec.: 0.8370608812189227
+Epoch: 08 | Epoch Time: 0m 24s
+	Train Loss: 0.032 | Train Acc: 98.92% | Train F1: 0.9892172149969091
+	 Val. Loss: 1.850 |  Val. Acc: 78.78% | Val. F1: 0.7898856767525858 | Val. Prec: 0.7878184713375797 | Val. Rec.: 0.8344663221156056
+Epoch: 09 | Epoch Time: 0m 24s
+	Train Loss: 0.020 | Train Acc: 99.39% | Train F1: 0.993911030901419
+	 Val. Loss: 2.029 |  Val. Acc: 80.18% | Val. F1: 0.8025295109500827 | Val. Prec: 0.8017515923566879 | Val. Rec.: 0.8410917064181398
+Epoch: 10 | Epoch Time: 0m 24s
+	Train Loss: 0.022 | Train Acc: 99.34% | Train F1: 0.9933395187311695
+	 Val. Loss: 1.886 |  Val. Acc: 80.14% | Val. F1: 0.802429205154731 | Val. Prec: 0.8013535031847133 | Val. Rec.: 0.8360864818567846
+spooky lstm 0.8109739249313873 0.8093152866242038 0.8458256645159513 0.8109739249313873 0.002 32
+tensor(1.4411, device='cuda:0') 0.806219012204424 0.8078074778487448 0.806219012204424 0.8201865406765492
+********************************************************************************
+BATCH SIZE - 32, LEARNING RATE - 0.002'
+********************************************************************************
+Epoch: 01 | Epoch Time: 0m 24s
+	Train Loss: 0.772 | Train Acc: 65.58% | Train F1: 0.6314410772086264
+	 Val. Loss: 0.720 |  Val. Acc: 75.36% | Val. F1: 0.7535617576708882 | Val. Prec: 0.7535828025477707 | Val. Rec.: 0.7936635032076911
+Epoch: 02 | Epoch Time: 0m 24s
+	Train Loss: 0.423 | Train Acc: 83.99% | Train F1: 0.8387348145935677
+	 Val. Loss: 0.975 |  Val. Acc: 74.48% | Val. F1: 0.73931434643437 | Val. Prec: 0.7448248407643312 | Val. Rec.: 0.8069005370956007
+Epoch: 03 | Epoch Time: 0m 24s
+	Train Loss: 0.219 | Train Acc: 92.12% | Train F1: 0.9211056658763738
+	 Val. Loss: 0.781 |  Val. Acc: 80.89% | Val. F1: 0.8082658422845955 | Val. Prec: 0.8089171974522293 | Val. Rec.: 0.8451599853172304
+Epoch: 04 | Epoch Time: 0m 24s
+	Train Loss: 0.113 | Train Acc: 96.15% | Train F1: 0.9614254492571984
+	 Val. Loss: 1.020 |  Val. Acc: 80.25% | Val. F1: 0.8013007208347281 | Val. Prec: 0.802547770700637 | Val. Rec.: 0.8453355926186339
+Epoch: 05 | Epoch Time: 0m 24s
+	Train Loss: 0.066 | Train Acc: 97.88% | Train F1: 0.9787835267737779
+	 Val. Loss: 1.026 |  Val. Acc: 81.73% | Val. F1: 0.8187268699173782 | Val. Prec: 0.8172770700636943 | Val. Rec.: 0.8526367088767566
+Epoch: 06 | Epoch Time: 0m 24s
+	Train Loss: 0.044 | Train Acc: 98.64% | Train F1: 0.9863368132762425
+	 Val. Loss: 1.128 |  Val. Acc: 80.77% | Val. F1: 0.8078646754840035 | Val. Prec: 0.8077229299363057 | Val. Rec.: 0.8420016101644285
+Epoch: 07 | Epoch Time: 0m 24s
+	Train Loss: 0.032 | Train Acc: 98.98% | Train F1: 0.9897800741043625
+	 Val. Loss: 1.201 |  Val. Acc: 81.29% | Val. F1: 0.8133354915045833 | Val. Prec: 0.8128980891719745 | Val. Rec.: 0.8484022435455557
+Epoch: 08 | Epoch Time: 0m 24s
+	Train Loss: 0.017 | Train Acc: 99.51% | Train F1: 0.9950557836813331
+	 Val. Loss: 1.458 |  Val. Acc: 81.13% | Val. F1: 0.8122568206956332 | Val. Prec: 0.8113057324840764 | Val. Rec.: 0.8458304898392476
+Epoch: 09 | Epoch Time: 0m 24s
+	Train Loss: 0.016 | Train Acc: 99.54% | Train F1: 0.9954013624514165
+	 Val. Loss: 1.436 |  Val. Acc: 81.05% | Val. F1: 0.811330810717994 | Val. Prec: 0.8105095541401274 | Val. Rec.: 0.8441734652025257
+Epoch: 10 | Epoch Time: 0m 24s
+	Train Loss: 0.018 | Train Acc: 99.38% | Train F1: 0.9937772586294962
+	 Val. Loss: 1.522 |  Val. Acc: 80.14% | Val. F1: 0.8017580267509804 | Val. Prec: 0.8013535031847133 | Val. Rec.: 0.8401704949774218
+spooky gru 0.8187268699173782 0.8172770700636943 0.8526367088767566 0.8187268699173782 0.002 32
+tensor(1.0444, device='cuda:0') 0.8167489035087719 0.8179447128895623 0.8167489035087719 0.8288237676983918

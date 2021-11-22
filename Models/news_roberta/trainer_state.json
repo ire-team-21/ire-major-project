@@ -1,0 +1,76 @@
+{
+  "best_metric": 0.4427929222583771,
+  "best_model_checkpoint": "./enron_roberta-base_results/checkpoint-444",
+  "epoch": 5.0,
+  "global_step": 555,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "eval_accuracy": 0.5486443381180224,
+      "eval_f1": 0.5095793350239516,
+      "eval_loss": 1.728738784790039,
+      "eval_precision": 0.5662774368833228,
+      "eval_recall": 0.5486443381180224,
+      "eval_runtime": 3.0755,
+      "eval_samples_per_second": 203.867,
+      "eval_steps_per_second": 1.626,
+      "step": 111
+    },
+    {
+      "epoch": 2.0,
+      "eval_accuracy": 0.7384370015948963,
+      "eval_f1": 0.7246807158487121,
+      "eval_loss": 0.9764803647994995,
+      "eval_precision": 0.797737047749052,
+      "eval_recall": 0.7384370015948963,
+      "eval_runtime": 3.1104,
+      "eval_samples_per_second": 201.582,
+      "eval_steps_per_second": 1.608,
+      "step": 222
+    },
+    {
+      "epoch": 3.0,
+      "eval_accuracy": 0.8325358851674641,
+      "eval_f1": 0.8296360644889045,
+      "eval_loss": 0.5778697729110718,
+      "eval_precision": 0.8564263932409134,
+      "eval_recall": 0.8325358851674641,
+      "eval_runtime": 3.0708,
+      "eval_samples_per_second": 204.182,
+      "eval_steps_per_second": 1.628,
+      "step": 333
+    },
+    {
+      "epoch": 4.0,
+      "eval_accuracy": 0.8580542264752791,
+      "eval_f1": 0.8589906410180634,
+      "eval_loss": 0.4427929222583771,
+      "eval_precision": 0.8719113721207021,
+      "eval_recall": 0.8580542264752791,
+      "eval_runtime": 3.0916,
+      "eval_samples_per_second": 202.81,
+      "eval_steps_per_second": 1.617,
+      "step": 444
+    },
+    {
+      "epoch": 5.0,
+      "eval_accuracy": 0.8676236044657097,
+      "eval_f1": 0.8667067061749761,
+      "eval_loss": 0.4533669948577881,
+      "eval_precision": 0.8779506955840456,
+      "eval_recall": 0.8676236044657097,
+      "eval_runtime": 3.1049,
+      "eval_samples_per_second": 201.941,
+      "eval_steps_per_second": 1.61,
+      "step": 555
+    }
+  ],
+  "max_steps": 777,
+  "num_train_epochs": 7,
+  "total_flos": 4669869842426880.0,
+  "trial_name": null,
+  "trial_params": null
+}

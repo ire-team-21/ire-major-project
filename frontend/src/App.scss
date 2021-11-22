@@ -1,0 +1,27 @@
+// using node-style package resolution in a CSS file:
+@import "~normalize.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+
+.footer {
+  height: 100px;
+  align-content: center;
+  align-items: center;
+  align-self: center;
+  text-align-last: center;
+}
+
+.main {
+  min-height: 70vh;
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+
+.card {
+  width: 90%;
+}
+
+.logo {
+  max-height: 95%;
+}
