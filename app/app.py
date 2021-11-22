@@ -15,7 +15,7 @@ option = st.sidebar.radio('Navigation',
 st.sidebar.write('''This is a final deployed application of the project undertaken by Team-21 for IRE course, 2021''')
 st.sidebar.write('''The team members are - Anurag Muthlaya, Kancharla Aditya Hari, Meeraj Kanarparthi, Shivanshu Jain''')
 
-if(option == "Application"):
+if(option == "Author Identifier"):
     st.header("Washington Post Author Detector")
     text_input = st.text_area("Enter article", height=250)
 
