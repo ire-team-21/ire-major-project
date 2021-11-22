@@ -12,7 +12,7 @@ option = st.sidebar.radio('Navigation',
  "Models", 
  "Application", ])
 
-st.sidebar.write('''This is a final deployed application of the project undertaken by Team-14 for IRE course, 2021''')
+st.sidebar.write('''This is a final deployed application of the project undertaken by Team-21 for IRE course, 2021''')
 
 if(option == "Application"):
     st.header("Washington Post Author Detector")
