@@ -10,10 +10,10 @@ import en_core_web_sm
 from torch.nn.functional import softmax 
 
 nlp = en_core_web_sm.load()
-stoi = pickle.load(open("stoi.pk", "rb"))
-id2label = pickle.load(open('id2label.b', 'rb'))
+stoi = pickle.load(open("app/stoi.pk", "rb"))
+id2label = pickle.load(open('app/id2label.b', 'rb'))
 
-root = "../Models/"
+root = "Models/"
 def get_model(model_type):
     if(model_type == 'cnn'):
         model = CNN()
