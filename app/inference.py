@@ -6,9 +6,10 @@ import numpy as np
 import torch 
 import spacy 
 import pickle 
+import en_core_web_sm
 from torch.nn.functional import softmax 
 
-nlp = spacy.load("en_core_web_sm")
+nlp = en_core_web_sm.load()
 stoi = pickle.load(open("stoi.pk", "rb"))
 id2label = pickle.load(open('id2label.b', 'rb'))
 
